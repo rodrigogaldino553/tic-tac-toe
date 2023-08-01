@@ -2,5 +2,7 @@
 * a titulo encima vai ser com pixel art
 * o icone vai ser em pixel art
 
+* proxima estapa, acredito que seja definir as regras do jogo, definir quando alguem venceu, ou quando deu empate
+
 
 *ps: pensando em instalar tailwind depois no final e tornar ele com aquele visual minimalista e clean
